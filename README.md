@@ -29,10 +29,3 @@ And run your server running the following command in the root of the project:
 $ npm run dev
 ```
 
-Start the Tailwind CLI build process
-
-Run the CLI tool to scan your template files for classes and build your CSS.:
-
-```sh
-$ npm run devcss
-```
